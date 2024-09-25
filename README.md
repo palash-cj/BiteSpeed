@@ -57,7 +57,6 @@ This project implements the Bitespeed Backend Task of Identity Reconciliation us
 │   │   └── contact.service.ts     # Business logic for contact handling
 │   └── utils
 │       └── supabase.ts            # Supabase client setup
-├── test                           # Unit and e2e tests
 ├── .env                           # Environment variables file
 ├── README.md                      # Project README file
 ├── package.json                   # Project configuration
